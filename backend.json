@@ -1,0 +1,10 @@
+[{"job":"Computer Systems Analyst IV","skill":"js","job_nature":"work from home","notice_period":3,"rating":1,"info_company":"Thoughtworks","job_vacancy":48,"city":"Venezuela"},
+{"job":"Compensation Analyst","skill":["analytics","math"],"job_nature":"In office","notice_period":3,"rating":2,"info_company":"Kwideo","job_vacancy":52,"city":"San Andrés Xecul"},
+{"job":"Geological Engineer","skill":["geology","metrology"],"job_nature":"work from home","notice_period":1,"rating":3,"info_company":"Shuffledrive","job_vacancy":34,"city":"Cachan"},
+{"job":"Librarian","skill":["library Science"],"job_nature":"work from home","notice_period":1,"rating":4,"info_company":"Tagtune","job_vacancy":50,"city":"Ruma"},
+{"job":"VP Accounting","job_nature":"In office","notice_period":5,"rating":5,"info_company":"Roomm","job_vacancy":28,"city":"Sumberbaru"},
+{"job":"Product Engineer","job_nature":"work from home","notice_period":3,"rating":6,"info_company":"Eare","job_vacancy":19,"city":"Tulungagung"},
+{"job":"Software Test Engineer II","skill":"js","job_nature":"work from home","notice_period":4,"rating":7,"info_company":"Quimm","job_vacancy":27,"city":"venezuala"},
+{"job":"Environmental Tech","job_nature":"work from home","notice_period":5,"rating":8,"info_company":"Topicware","job_vacancy":19,"city":"Yongledian"},
+{"job":"Marketing Assistant","job_nature":"In office","notice_period":3,"rating":9,"info_company":"Dynabox","job_vacancy":12,"city":"Tân Hưng"},
+{"job":"Librarian","job_nature":"In office","notice_period":5,"rating":10,"info_company":"Flashpoint","job_vacancy":37,"city":"Lucheng"}]
